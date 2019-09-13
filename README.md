@@ -3,9 +3,9 @@
 This repository contains all of the code necessary to reproduce the results in *Modeling the residential distribution of enrolled students to assess boundary-induced disparities in public school access.*
 
 ## Instructions
-Ensure the following packages are installed.
+Ensure the following packages are installed.  
 • cvxpy  
-• cvxopt 
+• cvxopt  
 • geopandas  
 • matplotlib  
 • mpl_toolkits  
@@ -38,10 +38,10 @@ L. Rubio, D. Dailisan, J. Osorio, C. David, M. Lim. "Modeling the residential di
 
 ## Sources
 [Philippines]  
-PSGC data from https://psa.gov.ph/classification/psgc/  
+PSGC data from https://psa.gov.ph/classification/psgc/ (Geocodes used are frome the September 2017 publication)  
 Administrative boundary shapefiles contained in the Data Kit of Philippine Statistics  
 [Datos] must be directly requested by interested parties from https://psa.gov.ph/content/how-request-data-psa  
-DepEd dataset that used to be available from http://deped.gov.ph/datasets can be requested from action@deped.gov.ph.   
+DepEd dataset that used to be available from http://deped.gov.ph/datasets can be requested from action@deped.gov.ph. (School enrollment for 2015 was downloaded on November 7, 2017)  
 
 [UK]  
 School capacity - https://www.gov.uk/government/statistics/school-capacity-academic-year-2016-to-2017  
