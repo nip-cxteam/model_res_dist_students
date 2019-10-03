@@ -34,7 +34,7 @@ To run the comparison between the assignment by max matching and our potential-b
 
 If you use the code for academic research, you are highly encouraged to cite our paper:
 
-L. Rubio, D. Dailisan, J. Osorio, C. David, M. Lim. "Modeling the residential distribution of enrolled students to assess boundary-induced disparities in public school access," PLoS One.
+Rubio LJM, Dailisan DN, Osorio MJP, David CC, Lim MT (2019) Modeling the residential distribution of enrolled students to assess boundary-induced disparities in public school access. PLoS ONE 14(10): e0222766. https://doi.org/10.1371/journal.pone.0222766
 
 ## Sources
 [Philippines]  
