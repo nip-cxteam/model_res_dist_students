@@ -4,16 +4,16 @@ This repository contains all of the code necessary to reproduce the results in *
 
 ## Instructions
 Ensure the following packages are installed.  
-• `cvxpy` 
-• `cvxopt`  
-• `geopandas` 
-• `matplotlib` 
-• `mpl_toolkits`
-• `numpy`
-• `pandas`
-• `scipy`
-• `seaborn`
-• `statsmodels`
+- `cvxpy` 
+- `cvxopt`  
+- `geopandas` 
+- `matplotlib` 
+- `mpl_toolkits`
+- `numpy`
+- `pandas`
+- `scipy`
+- `seaborn`
+- `statsmodels`
 
 Perform the UK analysis by running the UK Analysis ipynb notebook.  
 
