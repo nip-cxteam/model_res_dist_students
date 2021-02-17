@@ -15,9 +15,9 @@ Ensure the following packages are installed.
 - `seaborn`
 - `statsmodels`
 
-Perform the UK analysis by running the UK Analysis ipynb notebook.  
+Perform the UK analysis by running the [UK Dataset](UK%20Analysis/UK%20Dataset.ipynb) notebook.  
 
-The PH analysis ipython notebook requires the 2002 Datos barangay shapefiles that can be requested from PSA at https://psa.gov.ph/content/how-request-data-psa which contains the barangay shape and 2000 population. The geocodes can be updated using the script barangay_preprocessor.py. The barangay dataframe should have the following headers:
+The PH analysis ipython notebook requires the 2002 Datos barangay shapefiles that can be requested from PSA at https://psa.gov.ph/content/how-request-data-psa which contains the barangay shape and 2000 population. The geocodes can be updated using the script [barangay_preprocessor.py](PA%20Analysis/barangay_preprocessor.py). The barangay dataframe should have the following headers:
 
 "ProvinceName"  
 "RegionName"  
@@ -28,7 +28,7 @@ The PH analysis ipython notebook requires the 2002 Datos barangay shapefiles tha
 "ProvinceCode" - standard geocode at the provincial level  
 "MunicipalityCode" - standard geocode at the municipal level  
 
-To run the comparison between the assignment by max matching and our potential-based approach, run the Comparison vs. max matching ipython notebook.
+To run the comparison between the assignment by max matching and our potential-based approach, run the [Comparison vs. max matching](benchmark/Comparison_vs_maxmatching.ipynb) notebook.
 
 ## Citations
 
